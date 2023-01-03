@@ -6,7 +6,8 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I have done MERN Stack web development. I am skilled in HTML, CSS, Bootstrap, JavaScript, NodeJS, Express, MongoDB, Postman, Git, GitHub and React JS. 
+
 - 🏦 I'm a Full Stack Web Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I have good knowledge of HTML,CSS,JavaScript,ReactJs,Nodejs,MongoDB.
