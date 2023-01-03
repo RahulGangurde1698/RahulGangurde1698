@@ -10,7 +10,6 @@ I have done MERN Stack web development. I am skilled in HTML, CSS, Bootstrap, Ja
 
 - 🏦 I'm a Full Stack Web Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I have good knowledge of HTML,CSS,JavaScript,ReactJs,Nodejs,MongoDB.
 - 📖 I am currently reading Rich Dad Poor Dad by Robert Kiyosaki
 - 💬 Talk to me about silicon valley, startups, movies & series.
 - 📧 Contact me at: [gangurderahul26@gmail.com](mailto:gangurderahul26@gmail.com)
