@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**RahulGangurde1698/RahulGangurde1698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a href="https://www.linkedin.com/in/rahul-gangurde-659a44169" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rahul Gangurde" height="30" width="30" /></a>&nbsp;
 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a href="https://www.linkedin.com/in/tarun-rakhunde-a65aa5228/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tarun-rakhunde" height="30" width="30" /></a>&nbsp;
 
