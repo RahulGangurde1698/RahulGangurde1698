@@ -1,5 +1,5 @@
 ### Hi there 👋 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a href="https://www.linkedin.com/in/rahul-gangurde-659a44169" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rahul Gangurde" height="30" width="30" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rahul-gangurde-659a44169" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rahul Gangurde" height="30" width="30" /></a>&nbsp;
 
 <p align="center">
       <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" margin="auto" width="50%" />
