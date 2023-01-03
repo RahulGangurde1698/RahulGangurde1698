@@ -9,8 +9,7 @@
 A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 - 🏦 I'm a Full Stack Web Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use
-- 🌐 Checkout my [portfolio](https://tarunr.vercel.app/)
+- 💻 I have good knowledge of HTML,CSS,JavaScript,ReactJs,Nodejs,MongoDB.
 - 📖 I am currently reading Rich Dad Poor Dad by Robert Kiyosaki
 - 💬 Talk to me about silicon valley, startups, movies & series.
 - 📧 Contact me at: [gangurderahul26@gmail.com](mailto:gangurderahul26@gmail.com)
